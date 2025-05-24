@@ -70,3 +70,7 @@ GET	/api/events/{id}/versions	Get all versions
 GET	/api/events/{id}/history/{versionId}	Get specific version
 POST	/api/events/{id}/rollback/{versionId}	Roll back to version
 GET	/api/events/{id}/diff/{v1}/{v2}	Field-by-field dif
+
+
+https://github.com/Tejas1020/Rest_API_Management/blob/main/registration.png
+![API Screenshot][(https://via.placeholder.com/900x500.png](https://github.com/Tejas1020/Rest_API_Management/blob/main/registration.png)?text=NeoFi+Backend+API+Swagger+UI)
