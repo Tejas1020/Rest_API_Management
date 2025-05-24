@@ -73,4 +73,4 @@ GET	/api/events/{id}/diff/{v1}/{v2}	Field-by-field dif
 
 
 https://github.com/Tejas1020/Rest_API_Management/blob/main/registration.png
-![API Screenshot][(https://via.placeholder.com/900x500.png](https://github.com/Tejas1020/Rest_API_Management/blob/main/registration.png)?text=NeoFi+Backend+API+Swagger+UI)
+<img src="registration.png" alt="App Screenshot" width="300"/>
